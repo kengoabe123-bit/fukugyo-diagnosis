@@ -45,7 +45,7 @@ export const services: Service[] = [
         ],
         recommended: ['文章を書くのが好き', '長期的な資産を作りたい', 'コツコツ継続できる'],
         affiliateUrl: '#',
-        ctaText: '詳しく見る',
+        ctaText: '詳細を見る',
         color: '#4CAF50',
     },
     {
@@ -75,7 +75,7 @@ export const services: Service[] = [
         ],
         recommended: ['映像制作に興味がある', 'クリエイティブな作業が好き', '即収入を得たい'],
         affiliateUrl: '#',
-        ctaText: '詳しく見る',
+        ctaText: '詳細を見る',
         color: '#F44336',
     },
     {
@@ -105,7 +105,7 @@ export const services: Service[] = [
         ],
         recommended: ['高収入を目指したい', 'IT業界に興味がある', '論理的に考えるのが好き'],
         affiliateUrl: '#',
-        ctaText: '詳しく見る',
+        ctaText: '詳細を見る',
         color: '#2196F3',
     },
     {
@@ -135,7 +135,7 @@ export const services: Service[] = [
         ],
         recommended: ['発信するのが好き', 'SNSをよく使う', '自分のブランドを持ちたい'],
         affiliateUrl: '#',
-        ctaText: '詳しく見る',
+        ctaText: '詳細を見る',
         color: '#E91E63',
     },
     {
@@ -165,7 +165,7 @@ export const services: Service[] = [
         ],
         recommended: ['すぐに収入がほしい', '専門スキルがある', '確実に稼ぎたい'],
         affiliateUrl: '#',
-        ctaText: '詳しく見る',
+        ctaText: '詳細を見る',
         color: '#FF9800',
     },
     {
@@ -195,7 +195,7 @@ export const services: Service[] = [
         ],
         recommended: ['時間をかけたくない', '余剰資金がある', '長期的に資産を増やしたい'],
         affiliateUrl: '#',
-        ctaText: '詳しく見る',
+        ctaText: '詳細を見る',
         color: '#009688',
     },
     {
@@ -225,7 +225,7 @@ export const services: Service[] = [
         ],
         recommended: ['人に教えるのが好き', '豊富な経験がある', '高単価で稼ぎたい'],
         affiliateUrl: '#',
-        ctaText: '詳しく見る',
+        ctaText: '詳細を見る',
         color: '#9C27B0',
     },
 ];
